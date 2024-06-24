@@ -81,18 +81,18 @@
                 <a href="https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh" target="_blank">
                     <button class="docker-button"><i class="fab fa-docker"></i> Docker - Basics to Brilliance</button>
                 </a>
-                <a href="https://www.linkedin.com/in/kastro-kiran/" target="_blank">
-                    <button class="linkedin-button"><i class="fab fa-linkedin"></i> Kastro - LinkedIn</button>
+                <a href="https://www.linkedin.com/in/Manjeet singh/" target="_blank">
+                    <button class="linkedin-button"><i class="fab fa-linkedin"></i> Manjeet - LinkedIn</button>
                 </a>
             </p>
         </div>
     </div>
     <div class="image-container">
         <!-- Image at the bottom middle of the page -->
-        <img src="https://media.licdn.com/dms/image/D5603AQHJB_lF1d9OSw/profile-displayphoto-shrink_800_800/0/1718971147172?e=1724284800&v=beta&t=HJC2dPANaLQK7Rs4P6UoZvRAdz0Se5s5js9SvlzhXXI" alt="Profile Image" class="profile-image">
+        <img src="https://media.licdn.com/dms/image/D4D03AQH5d-QEWrSRDQ/profile-displayphoto-shrink_200_200/0/1678989521811?e=1724889600&v=beta&t=0BF81KBdUosCdFuX8qgi4XWgsSMPinMlP4kukDPf0eo" alt="Profile Image" class="profile-image">
     </div>
     <div class="copyright">
-        <span class="icon">&copy;</span> Kastro
+        <span class="icon">&copy;</span> manjeet
     </div>
 </body>
 </html>
